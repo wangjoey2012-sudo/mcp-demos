@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "tools-demo": {
+      "command": "node",
+      "args": ["/Users/wangzhouyin/mcp-demos/1-tools-demo.js"]
+    },
+    "resources-demo": {
+      "command": "node",
+      "args": ["/Users/wangzhouyin/mcp-demos/2-resources-demo.js"]
+    },
+    "prompts-demo": {
+      "command": "node",
+      "args": ["/Users/wangzhouyin/mcp-demos/3-prompts-demo.js"]
+    }
+  }
+}

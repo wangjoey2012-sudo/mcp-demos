@@ -1,0 +1,18 @@
+{
+  "name": "mcp-demos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP 核心概念演示：Tools、Resources、Prompts",
+  "main": "index.js",
+  "scripts": {
+    "tools": "node 1-tools-demo.js",
+    "resources": "node 2-resources-demo.js",
+    "prompts": "node 3-prompts-demo.js"
+  },
+  "keywords": ["mcp", "model-context-protocol", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3"
+  }
+}
